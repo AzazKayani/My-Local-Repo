@@ -15,7 +15,27 @@ this is heading 6 smalest
 
 ---
 git
-gut 
+
+gut
+
 git
+
 ---
 
+this is [link](www.google.com)
+
+ - list 1
+ 
+ - list 2
+ 
+ 1. aaaaa
+ 
+ 2. 2222
+ 
+ 1. Main
+    -aaaa
+     -bbb
+     
+ - [x] done
+ 
+ - [ ] not
