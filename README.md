@@ -10,4 +10,5 @@ this is heading 6 smalest
 **This is bold test**
 
 *This is italic test*
---This is strikethrough--
+
+***bold and italich***
