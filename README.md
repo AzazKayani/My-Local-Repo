@@ -8,3 +8,6 @@ this is heading 3
 this is heading 6 smalest
 # Bold
 **This is bold test**
+
+*This is italic test*
+--This is strikethrough--
