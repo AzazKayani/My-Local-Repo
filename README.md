@@ -12,3 +12,10 @@ this is heading 6 smalest
 *This is italic test*
 
 ***bold and italich***
+
+---
+git
+gut 
+git
+---
+
