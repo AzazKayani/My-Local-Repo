@@ -7,4 +7,4 @@ this is heading 3
 ###### Heading 6
 this is heading 6 smalest
 # Bold
-** This is bold test **
+**This is bold test**
